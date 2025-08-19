@@ -1,0 +1,2 @@
+Append mode: 
+This is a test 
