@@ -1,2 +1,3 @@
 Write mode: 
-Testing
+TestingAppend mode: 
+This is a test 

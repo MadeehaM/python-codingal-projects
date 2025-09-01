@@ -8,7 +8,7 @@ Second.write("Write mode: \n")
 Second.write("Testing")
 Second.close()
 
-Third = open('white.txt', 'a')
+Third = open('file.txt', 'a')
 Third.write("Append mode: \n")
 Third.write("This is a test \n")
 Third.close()
